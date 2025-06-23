@@ -1,9 +1,0 @@
-build/
-cmake-build*/
-.idea/
-.vs/
-
-.DS_Store
-*.exe
-x64/
-x64/tasktracker/x64/
