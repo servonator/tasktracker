@@ -125,9 +125,11 @@
   <ItemGroup>
     <ClCompile Include="main.cpp" />
     <ClCompile Include="taskAction.cpp" />
+    <ClCompile Include="TaskStatus.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="taskAction.h" />
+    <ClInclude Include="TaskStatus.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

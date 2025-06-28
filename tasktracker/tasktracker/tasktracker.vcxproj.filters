@@ -21,9 +21,15 @@
     <ClCompile Include="taskAction.cpp">
       <Filter>Quelldateien</Filter>
     </ClCompile>
+    <ClCompile Include="TaskStatus.cpp">
+      <Filter>Quelldateien</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="taskAction.h">
+      <Filter>Headerdateien</Filter>
+    </ClInclude>
+    <ClInclude Include="TaskStatus.h">
       <Filter>Headerdateien</Filter>
     </ClInclude>
   </ItemGroup>
